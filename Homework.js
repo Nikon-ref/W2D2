@@ -12,17 +12,21 @@ ASSIGNMENT RULES
  Enumerate and describe the main datatypes in JavaScript. Try to explain the concepts as you were speaking to a 12 years old.
 */
 
-/* The main and most basic type of data in JavaScript are 3 and they include Strings, Numbers and Booleans.
- 
-Strings are a type of data composed by a word made by letters that can also include numbers or be just a number however,
- in order for it to be considered a string, it needs to be incapsulated with double or single quotes at the beginning and at the end of the "word".
- 
- Numbers on the other hand are like the word itself suggests, numbers. They can be as "big" as you want and can even include as many decimal points as you need
- and can be used for all sorts of needs when using JavaScript, some basic needs could be something as simple as doing a simple mathematical calculation to something
- more complex such as calculating someone's salary at the end of the month based on his daily income.
- 
-Finally, booleans can get pretty confusing, however the basic concept of them is that they only have 2 values, True or False. When we do create a boolean we are only
-specifying if it is true or false (nasically saying if one data is right or wrong).*/
+/* The main and most basic type of data in JavaScript are 3 and they include Strings, Numbers and Booleans.*/
+
+//Strings are a type of data composed by a word made by letters that can also include numbers or be just a number however, in order for it to be considered a string, it needs to be incapsulated with double or single quotes at the beginning and at the end of the "word". Here are some examples of what a string is
+//let stringExample = "this is a string";
+//let stringExample2 = "as long as it's in between vertical commas it's a string";
+
+//Numbers on the other hand are like the word itself suggests, numbers. They can be as "big" as you want and can even include as many decimal points as you need
+//and can be used for all sorts of needs when using JavaScript, some basic needs could be something as simple as doing a simple mathematical calculation to something
+//more complex such as calculating someone's salary at the end of the month based on his daily income. Here are some examples
+//let number = 90;
+//let number2 = 10.04;
+
+//Finally, booleans can get pretty confusing, however the basic concept of them is that they only have 2 values, True or False. When we do create a boolean we are only
+//specifying if it is true or false (nasically saying if one data is right or wrong). Here is an example of a boolean.
+//let booleanEx = false;
 
 /* EXERCISE 2
  Try to describe what a variable is, in your own words.
